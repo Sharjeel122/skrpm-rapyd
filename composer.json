@@ -1,0 +1,19 @@
+{
+    "name": "skrpm/rapyd",
+    "description": "Rapyd Payment integration package for laravel",
+    "type": "laravel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Skrpm\\Rapyd\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sharjeel122",
+            "email": "sharjeel@edenspell.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
