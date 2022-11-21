@@ -1544,4 +1544,15 @@ This project is used by the following companies:
 
 - Edenspell technologies
 - karobarplus.com
+- digital arms
 
+
+## Authors
+
+- [@Sharjeelkhokhar](https://github.com/Sharjeel122/)
+- [Sharjeelkhokhar94@gmail.com]
+
+
+## 🔗 Links
+[![facebook](https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arise.sharjeel)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharjeel-khokhar-0a173b154/)
